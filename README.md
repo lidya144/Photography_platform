@@ -1,1 +1,2 @@
-# Photography_platform
+# Photography_platform 
+Lidya
